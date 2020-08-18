@@ -1,0 +1,11 @@
+1.mcc
+train_tmp.py
+loss
+train_result = get_pedestrian_metrics(train_gt, train_probs, threshold=0) #143
+valid_result = get_pedestrian_metrics(valid_gt, valid_probs, threshold=0)
+test_alm threshold
+
+
+batch_engine.py
+去掉clip
+去掉torch.sigmoid
