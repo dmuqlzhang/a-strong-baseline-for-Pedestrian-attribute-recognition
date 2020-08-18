@@ -2,7 +2,7 @@
 
 
 
-Considering the big performance gap of various SOTA baseline, we provide a solid and strong baseline for fair comparison.
+Considering the big performance gap of various SOTA baseline(osnwt+BN), we provide a solid and strong baseline for fair comparison.
 
 
 
